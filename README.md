@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @errormagnet
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning flutter & UI development
+- 🌱 I’m currently learning UI development
