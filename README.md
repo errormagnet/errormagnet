@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @errormagnet
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Ruby on Rails
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Rails Turbo & React
