@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @errormagnet
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Rails Turbo & React
+- 👋 Hi, I’m @errormagnet.
+- I am a Software Engineer currently working with Ruby on Rails. I have almost three years of software development experience. I have worked mostly with Angular and Rails. I have done various freelance/hobby projects using flutter and have a keen interest in expanding my knowledge of web and app development. I have a good knowledge of UX/UI as well to be able to understand the entire product development process in a granular level and also be able to have an input in every step.
+- 🌱 I am currently learning React.
